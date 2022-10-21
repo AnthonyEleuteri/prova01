@@ -1,0 +1,15 @@
+{
+  "name": "prova01",
+  "version": "1.0.0",
+  "description": "La prima prova di un progetto npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AnthonyEleuteri",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "2.0.20"
+  }
+}

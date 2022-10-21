@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E5EB9F5A-76B3-4EE6-9B0B-882A0153FA14}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="prova01/Program.fs">
+    <Files>
+      <File FileName="prova01/Program.fs" Line="9" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="prova01" expanded="True">
+            <Node name="prova01" expanded="True">
+              <Node name="Program.fs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.prova01 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0j+8GoXVlmzCqJTWiLiiGZUO8j1qQwnBfmC4MSyf9X1jpDfZtIiHOA8jn+fBiTzW+G9oKv34skaGOIdfxerAJQ==",
+  "success": true,
+  "projectFilePath": "/Users/anthonyeleuteri/Projects/prova01/prova01/prova01.fsproj",
+  "expectedPackageFiles": [
+    "/Users/anthonyeleuteri/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
